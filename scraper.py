@@ -1,5 +1,5 @@
 import scraperwiki
-html = scraperwiki.scrape('https://scraperwiki.com/hello_world.html')
+html = scraperwiki.scrape('https://www.hs.fi/uusi/')
 print "Click on the ...more link to see the whole page"
 print html
 
